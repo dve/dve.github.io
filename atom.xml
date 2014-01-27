@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Projekt-H]]></title>
   <link href="http://dve.github.io/atom.xml" rel="self"/>
   <link href="http://dve.github.io/"/>
-  <updated>2014-01-27T11:43:36+01:00</updated>
+  <updated>2014-01-27T11:49:20+01:00</updated>
   <id>http://dve.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Daniel Nordhoff-Vergien]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
